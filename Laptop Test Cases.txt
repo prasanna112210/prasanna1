@@ -1,0 +1,20 @@
+Laptop Test Cases
+
+1. Verify that the laptop powers on successfully.
+2. Verify that the laptop connects to a Wi-Fi network.
+3. Verify battery charging and discharging.
+4. Verify webcam and audio.
+5. Verify that the laptop goes into sleep mode when it is closed.
+6. Verify screen brightness adjustment.
+7. Verify that the operating system boots without errors.
+
+Internet Banking Test Cases
+
+1. Verify login with valid credentials.
+2. Verify unsuccessful login with invalid credentials.
+3. Verify password  during login.
+4. Verify session timeout after a period of inactivity.
+5. Verify multi-factor authentication during login.
+6. Verify that the "Forgot Password" works correctly.
+7. Verify that the user can log out successfully.
+8. Verify login attempt locked after multiple failed attempts
